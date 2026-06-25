@@ -17,8 +17,8 @@ Reach out to Julien Werzowa for any questions.
 
 ## Tools
 
-- KiCad 8.x
-- Fabrication: OSH Park / JLCPCB
+- KiCad 9
+- Fabrication: JCLPCB
 
 ## Status
 
